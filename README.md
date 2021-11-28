@@ -27,12 +27,10 @@
 ### Something about me
 
 I am...
-- :raising_hand_man: ... a 22 years old guy from Italy
-- :book: ... pursuing a Master's Degree in Computer Science and Engineering
-- :robot: ... particularly interested in Robotics stuff
-- :wrench: ... passionate about building things
-
-<!-- I'm an MSc student in Computer Science and Engineering at Politecnico di Milano, with a focus on Robotics. :robot: -->
+- :raising_hand_man:  ... a 23 years old guy from Italy
+- :book:              ... pursuing a master's degree in Computer Science and Engineering
+- :robot:             ... particularly interested in Robotics stuff
+- :wrench:            ... passionate about building things
 
 Want to get in touch? Feel free to ping me on [Linkedin](https://www.linkedin.com/in/leonardogargani)! :incoming_envelope:
 
@@ -40,7 +38,7 @@ Want to get in touch? Feel free to ping me on [Linkedin](https://www.linkedin.co
 ---
 
 
-### Programming Languages
+### Programming languages
 
 <a href="#"> <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&color=grey&logoColor=blue"/> </a>
@@ -65,7 +63,7 @@ Want to get in touch? Feel free to ping me on [Linkedin](https://www.linkedin.co
 <a href="#"> <img src="https://img.shields.io/badge/Hugo-informational?style=flat&logo=hugo&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Thymeleaf-informational?style=flat&logo=thymeleaf&color=grey&logoColor=green"/> </a>
 
-### Frameworks & Libraries
+### Frameworks & libraries
 
 <a href="#"> <img src="https://img.shields.io/badge/ROS-informational?style=flat&logo=ros&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/JavaFX-informational?style=flat&logo=javafx&color=grey"/> </a>
@@ -91,5 +89,4 @@ Want to get in touch? Feel free to ping me on [Linkedin](https://www.linkedin.co
 <a href="#"> <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&color=grey&logoColor=green"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&color=grey&logoColor=black"/> </a>
-
 
