@@ -8,7 +8,6 @@
   Main skills:
 
   <a href="#"> <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=grey"/> </a>
-  <a href="#"> <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&color=grey"/> </a>
   <a href="#"> <img src="https://img.shields.io/badge/ROS-informational?style=flat&logo=ros&color=grey"/> </a>
   <a href="#"> <img src="https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&color=grey"/> </a>
   <a href="#"> <img src="https://img.shields.io/badge/Raspberry%20Pi-informational?style=flat&logo=raspberrypi&color=grey&logoColor=red"/> </a>
@@ -16,10 +15,8 @@
   <a href="#"> <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey"/> </a>
   <a href="#"> <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&color=grey&logoColor=blue"/> </a>
   <a href="#"> <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey&logoColor=yellow"/> </a>
-  <a href="#"> <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey&logoColor=red"/> </a>
 
 </h4>
-
 
 ---
 
@@ -37,56 +34,47 @@ Want to get in touch? Feel free to ping me on [Linkedin](https://www.linkedin.co
 
 ---
 
+### What I like most working with
 
-### Programming languages
+#### Programming languages
 
-<a href="#"> <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&color=grey&logoColor=blue"/> </a>
+<a href="#"> <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey&logoColor=yellow"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey&logoColor=red"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Matlab-informational?style=flat&logo=&color=grey"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/VHDL-informational?style=flat&logo=vhdl&color=grey"/> </a>
 
-### Hardware stuff
+#### SBCs & microcontrollers
 
+<a href="#"> <img src="https://img.shields.io/badge/ESP32-informational?style=flat&logo=esp32&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&color=grey"/> </a>
+<a href="#"> <img src="https://img.shields.io/badge/STM32-informational?style=flat&logo=stm32&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Raspberry%20Pi-informational?style=flat&logo=raspberrypi&color=grey&logoColor=red"/> </a>
 
-### Operating system
+#### Operating systems
 
 <a href="#"> <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&color=grey"/> </a>
 
-### Web
-<a href="#"> <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey&logoColor=blue"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Hugo-informational?style=flat&logo=hugo&color=grey"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Thymeleaf-informational?style=flat&logo=thymeleaf&color=grey&logoColor=green"/> </a>
+#### DIY & making
 
-### Frameworks & libraries
+<a href="#"> <img src="https://img.shields.io/badge/OpenSCAD-informational?style=flat&logo=openscad&color=grey"/> </a>
+<a href="#"> <img src="https://img.shields.io/badge/3D%20printing-informational?style=flat&logo=3dprinting&color=grey"/> </a>
+
+#### Frameworks & libraries
 
 <a href="#"> <img src="https://img.shields.io/badge/ROS-informational?style=flat&logo=ros&color=grey"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/JavaFX-informational?style=flat&logo=javafx&color=grey"/> </a>
+<a href="#"> <img src="https://img.shields.io/badge/PyQt-informational?style=flat&logo=pyqt&color=grey"/> </a>
 
-### Databases
-
-<a href="#"> <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=grey"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/MariaDB-informational?style=flat&logo=mariadb&color=grey&logoColor=red"/> </a>
-
-### Editors & IDEs
+#### Editors & IDEs
 
 <a href="#"> <img src="https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&color=grey&logoColor=green"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&color=grey&logoColor=blue"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/IntelliJ-informational?style=flat&logo=intellijidea&color=grey&logoColor=red"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&color=grey&logoColor=yellow"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/CLion-informational?style=flat&logo=clion&color=grey&logoColor=blue"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Eclipse-informational?style=flat&logo=eclipse&color=grey&logoColor=purple"/> </a>
 
-### Other
+#### Other
 
 <a href="#"> <img src="https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&color=grey&logoColor=red"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=grey"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&color=grey&logoColor=green"/> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&color=grey&logoColor=black"/> </a>
 
